@@ -1,0 +1,76 @@
+img { 
+    max-width:100%; 
+    height:auto; 
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+.logo {
+    width: 100%;
+}
+
+.mainview {
+    width: 100%;
+    overflow: hidden;
+}
+
+.title {
+    width: 100%;
+    /* margin-top: 10px; */
+}
+
+
+
+
+.who_is_he {
+    width: 100%;
+}
+
+.cover-model {
+    width: 100%;
+}
+
+.AboutWork {
+    width: 100%;
+}
+
+.FromNowOn {
+    width: 100%;
+}
+
+.follow1 {
+    width: 35%;
+    float: left;
+    margin-left: 8%;
+}
+
+.follow2 {
+    width: 35%;
+    float: left;
+    margin-left: 13%;
+}
+
+
+
+
+
+
+
+.contents {
+    width: 100%;
+}
+
+.back_button {
+    width: 100%;
+    margin-top: 20%;
+}
+
+
+
+
+
